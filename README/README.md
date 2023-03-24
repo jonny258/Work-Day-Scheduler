@@ -6,4 +6,6 @@ When the application is opened, the current day is displayed at the top of the c
 
 Even after refreshing the page, the saved events persist thanks to local storage. With this application, busy employees can easily manage their time effectively by adding important events to a daily planner.
 
+Link to deployed site: https://jonny258.github.io/Work-Day-Scheduler/
+
 <img src="samplePic.jpg">
